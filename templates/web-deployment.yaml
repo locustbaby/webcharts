@@ -1,0 +1,7 @@
+initcontainer
+sidercar
+prestart
+poststart
+prestop
+poststart
+terminate timeout

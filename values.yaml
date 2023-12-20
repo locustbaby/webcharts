@@ -1,0 +1,13 @@
+cloud:
+  type: aws
+
+deployment:
+
+ingress:
+
+servicemonitor:
+  enabled: true
+
+podmonitor:
+  enabled: true
+
